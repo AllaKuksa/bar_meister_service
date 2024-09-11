@@ -10,6 +10,7 @@
 
  - `create user  /api/user/register/`
  - `get access token  /api/user/token/`
+ - `refresh token /token/refresh/`
  - `logout  /api/user/logout/`
 
 ## API Swagger
